@@ -315,12 +315,12 @@ img{
 	background: rgba(1, 1, 1, 0.8);
 }
 .page_show{
-	-webkit-animation: rules_page .2s linear forwards;
-			animation: rules_page .2s linear forwards;
+	-webkit-animation: rules_page .3s linear forwards;
+			animation: rules_page .3s linear forwards;
 }
 .page_close{
-	-webkit-animation: close .2s linear forwards;
-			animation: close .2s linear forwards;
+	-webkit-animation: close .3s linear forwards;
+			animation: close .3s linear forwards;
 }
 @-webkit-keyframes rules_page {
 	0% { height: 0%;}
